@@ -1,0 +1,28 @@
+O249	mixing bowl
+S24	contains	{pudding}
+O210	jar
+S24	contains	{whipped cream}
+O419	whipped cream
+S30	creamy
+S72	in	 [jar]
+S154	whipped
+O364	spatula
+M65	pour	<2:00,2:07>
+O249	mixing bowl
+S24	contains	{pudding,whipped cream}
+O419	whipped cream
+S30	creamy
+S72	in	 [mixing bowl]
+S154	whipped
+// 
+O34	bowl
+S24	contains	{kidney bean}
+O34	bowl
+S24	contains	{chipotle,chipotle sauce}
+O364	spatula
+M68	pour and scrape	<0:25,0:31>
+O34	bowl
+S24	contains	{chipotle,chipotle sauce,kidney bean}
+O57	can opener
+O364	spatula
+// 

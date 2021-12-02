@@ -1,0 +1,16 @@
+O34	bowl
+S24	contains	{ice}
+O206	ice
+S33	crushed
+S60	frozen
+S72	in	 [bowl]
+O128	drinking glass
+S46	empty
+M61	pick-and-place	<Assumed>
+O128	drinking glass
+S24	contains	{ice}
+O206	ice
+S33	crushed
+S60	frozen
+S72	in	 [drinking glass]
+// 

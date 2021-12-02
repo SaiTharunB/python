@@ -1,0 +1,37 @@
+O249	mixing bowl
+S24	contains	{black olive,cucumber,green pepper,lemon,olive oil,onion,oregano,salt,sweet pepper,tomato}
+O331	salad
+S24	contains	{black olive,cucumber,green pepper,lemon,olive oil,onion,oregano,salt,sweet pepper,tomato}
+S72	in	 [mixing bowl]
+S87	mixed
+O367	spoon
+S24	contains	{feta cheese}
+O144	feta cheese
+S35	cubed
+S72	in	 [spoon]
+M65	pour	<Assumed>
+O249	mixing bowl
+S24	contains	{salad}
+O176	greek salad
+S24	contains	{black olive,cucumber,feta cheese,green pepper,lemon,olive oil,onion,oregano,salt,sweet pepper,tomato}
+S72	in	 [mixing bowl]
+S87	mixed
+O331	salad
+S24	contains	{black olive,cucumber,feta cheese,green pepper,lemon,olive oil,onion,oregano,salt,sweet pepper,tomato}
+S72	in	 [mixing bowl]
+S87	mixed
+// 
+O101	container
+S24	contains	{feta cheese}
+O144	feta cheese
+S35	cubed
+S72	in	 [container]
+O367	spoon
+S46	empty
+M84	scoop	<Assumed>
+O367	spoon
+S24	contains	{feta cheese}
+O144	feta cheese
+S35	cubed
+S72	in	 [spoon]
+// 

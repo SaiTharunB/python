@@ -1,0 +1,63 @@
+O121	cutting board
+S24	contains	{sweet potato}
+O378	sweet potato
+S93	on	 [cutting board]
+S101	peeled
+O217	knife
+M23	cut	<0:37,1:01>
+O378	sweet potato
+S17	chopped
+S93	on	 [cutting board]
+// 
+O121	cutting board
+S46	empty
+O342	scallion
+S155	whole
+M61	pick-and-place	<Assumed>
+O342	scallion
+S93	on	 [cutting board]
+S155	whole
+O121	cutting board
+S24	contains	{scallion}
+// 
+O121	cutting board
+S46	empty
+O378	sweet potato
+S101	peeled
+M61	pick-and-place	<Assumed>
+O121	cutting board
+S24	contains	{sweet potato}
+O378	sweet potato
+S93	on	 [cutting board]
+S101	peeled
+// 
+O121	cutting board
+S24	contains	{tarragon}
+O385	tarragon
+S93	on	 [cutting board]
+S155	whole
+O217	knife
+M12	chop	<Assumed>
+O385	tarragon
+S17	chopped
+S93	on	 [cutting board]
+O217	knife
+// 
+O378	sweet potato
+S155	whole
+O217	knife
+M60	peel	<0:31,0:36>
+O378	sweet potato
+S101	peeled
+// 
+O121	cutting board
+S46	empty
+O385	tarragon
+S155	whole
+M61	pick-and-place	<Assumed>
+O121	cutting board
+S24	contains	{tarragon}
+O385	tarragon
+S93	on	 [cutting board]
+S155	whole
+// 

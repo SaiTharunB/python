@@ -1,0 +1,30 @@
+O306	pot
+S24	contains	{macaroni,salt,water}
+S71	hot
+S93	on	 [stove]
+O229	macaroni
+S72	in	 [pot]
+S109	raw
+M16	cook	<Assumed>
+O229	macaroni
+S25	cooked
+S72	in	 [pot]
+// 
+O306	pot
+S24	contains	{salt,water}
+S71	hot
+S93	on	 [stove]
+O210	jar
+S24	contains	{macaroni}
+O229	macaroni
+S72	in	 [jar]
+S109	raw
+M65	pour	<0:26,0:40>
+O306	pot
+S24	contains	{macaroni,salt,water}
+S71	hot
+S93	on	 [stove]
+O229	macaroni
+S72	in	 [pot]
+S109	raw
+// 
